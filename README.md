@@ -4,7 +4,7 @@
 
 Try the AI Website Summarizer live:
 
-**🔗 Live Demo:** [Add your live demo URL here](https://your-live-demo-url.com/)
+**🔗 Live Demo:** [coming soon](https://-------/)
 
 > Create an account, paste any publicly accessible webpage URL, and get an AI-generated summary in seconds. Your summaries are automatically saved to your personal history.
 
