@@ -4,7 +4,7 @@
 
 Try the AI Website Summarizer live:
 
-**🔗 Live Demo:** [coming soon](https://-------/)
+**🔗 Live Demo:** [https://ai-website-summarizer-v1.vercel.app](https://ai-website-summarizer-v1.vercel.app)
 
 > Create an account, paste any publicly accessible webpage URL, and get an AI-generated summary in seconds. Your summaries are automatically saved to your personal history.
 
